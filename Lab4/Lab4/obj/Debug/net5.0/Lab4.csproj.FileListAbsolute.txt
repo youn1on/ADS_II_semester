@@ -1,0 +1,16 @@
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\bin\Debug\net5.0\Lab4.exe
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\bin\Debug\net5.0\Lab4.deps.json
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\bin\Debug\net5.0\Lab4.runtimeconfig.json
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\bin\Debug\net5.0\Lab4.runtimeconfig.dev.json
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\bin\Debug\net5.0\Lab4.dll
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\bin\Debug\net5.0\ref\Lab4.dll
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\bin\Debug\net5.0\Lab4.pdb
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\obj\Debug\net5.0\Lab4.csprojAssemblyReference.cache
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\obj\Debug\net5.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\obj\Debug\net5.0\Lab4.AssemblyInfoInputs.cache
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\obj\Debug\net5.0\Lab4.AssemblyInfo.cs
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\obj\Debug\net5.0\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\obj\Debug\net5.0\Lab4.dll
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\obj\Debug\net5.0\ref\Lab4.dll
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\obj\Debug\net5.0\Lab4.pdb
+C:\Users\Uni\Desktop\labs 2 semestr\ASD\Lab4\Lab4\obj\Debug\net5.0\Lab4.genruntimeconfig.cache
